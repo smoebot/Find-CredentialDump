@@ -1,4 +1,4 @@
-function Find-CredentialDump {
+function Find-RecordedFutureCredentialDump {
 <#
     .SYNOPSIS
         Search Recorded Future for credential dumps by keyword
