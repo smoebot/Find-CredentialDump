@@ -6,5 +6,6 @@ Returns Name, Brief Description, Type, when the data was downloaded by RF, and a
 If the limit parameter is not provided, only one discovered result is returned
 
 **Examples**
-  `Find-RecordedFutureCredentialDump -String facebook -limit 5`
+  ```powershell
+  Find-RecordedFutureCredentialDump -String facebook -limit 5```
   `Find-RecordedFutureCredentialDump -String bank`
