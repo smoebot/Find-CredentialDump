@@ -8,5 +8,6 @@ If the limit parameter is not provided, only one discovered result is returned
 **Examples**
   ```powershell
 Find-RecordedFutureCredentialDump -String facebook -limit 5```
+
   ```powershell
 Find-RecordedFutureCredentialDump -String bank```
