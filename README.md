@@ -5,6 +5,14 @@ Returns Name, Brief Description, Type, when the data was downloaded by RF, and a
 
 If the limit parameter is not provided, only one discovered result is returned
 
+---
+**Parameters**
+_String_
+
+The keyword that you wish to search for
+
+---
+
 **Examples**
   ```powershell
 Find-RecordedFutureCredentialDump -String facebook -limit 5
