@@ -17,8 +17,8 @@ function Find-CredentialDump {
         v0.1 - (2024-01-02) Initial version
         v0.2 - (2024-01-22) Renamed function
     .EXAMPLE
-        Find-CredentialDump -String facebook -limit 5
-        Find-CredentialDump -String bank
+        Find-CredentialDump -String kramerica -limit 5
+        Find-CredentialDump -String bubbleboy
     #>
 
     #requires -version 5
